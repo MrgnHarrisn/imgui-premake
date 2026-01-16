@@ -8,6 +8,9 @@ imgui*.ini
 bin/
 bin-int/
 
+*.vcproj
+*.vcproj.filters
+
 ## General build artifacts
 *.o
 *.obj
